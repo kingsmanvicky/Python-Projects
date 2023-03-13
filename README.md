@@ -24,4 +24,5 @@ Projects available:
 16) Nato Phonetic convertor
 17) Miles to Kms using TKinter
 18) Pomodoro App
-19) Password Manager
+19) Password Manager App
+20) Flash Card App
