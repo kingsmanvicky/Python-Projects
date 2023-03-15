@@ -26,3 +26,5 @@ Projects available:
 18) Pomodoro App
 19) Password Manager App
 20) Flash Card App
+21) Birthday Wisher using SMTP
+22) ISS Overhead Notifier using API
